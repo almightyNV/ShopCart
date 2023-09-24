@@ -12,6 +12,7 @@ Currently, two official plugins are available:
 ShopCart is a Clothing site which is built using React Js and Tailwind CSS. For fetching products and displaying the products FakeStore API is integrated.
 
 # Demo - Deployed on Vercel 
+https://shop-cart-kwfppwgo4-almightynv.vercel.app/
 
 ## Built with
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
