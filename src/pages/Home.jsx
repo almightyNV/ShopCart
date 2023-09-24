@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 
 import Hero from "../components/Hero";
-import LoadingImages from "../components/Loadingimages";
+import LoadingImages from "../components/LoadingImages";
 import Product from "../components/Product";
 import { ProductContext } from "../contexts/ProductContext";
 
